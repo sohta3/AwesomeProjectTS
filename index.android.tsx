@@ -23,7 +23,8 @@ class AwesomeProject extends React.Component<AwesomeProjectProps, AwesomeProject
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to this crazy time! このふざけた時代へようこそ きみはtough boy, tough boy, tough boy ...
+          ドコモかしこも傷だらけ
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
